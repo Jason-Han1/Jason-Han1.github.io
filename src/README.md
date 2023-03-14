@@ -5,7 +5,7 @@ icon: home
 title: Blog Home
 heroImage: /logo.svg
 heroText: The name of your blog
-tagline: You can put your slogan here
+tagline: 纵有疾风起，人生不言弃
 heroFullScreen: true
 projects:
   - icon: project
