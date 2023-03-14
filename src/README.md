@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 heroImage: /logo.svg
-heroText: The name of your blog
+heroText: JasonHan的博客
 tagline: 纵有疾风起，人生不言弃
 heroFullScreen: true
 projects:
