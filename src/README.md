@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: JasonHan的博客
 heroImage: /logo.svg
 heroText: JasonHan的博客
 tagline: 纵有疾风起，人生不言弃
